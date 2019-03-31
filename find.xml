@@ -12,5 +12,6 @@
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
