@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.less</mask>
     <mask>*.java</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
   </component>
 </application>
